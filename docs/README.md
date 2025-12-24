@@ -3,7 +3,7 @@
 <img width="160" height="160" align="center" src="./favicon.webp" alt="Favicon">
 
 <h1>
-<a style="color:#f5c2e7" href="https://freesmlauncher.org/">Freesm Launcher</a>
+<a style="color:#f5c2e7" href="https://freesmlauncher.org/">GabardCraft_Launcher</a>
 </h1>
 
 A Prism Launcher fork that **removes offline account restrictions**, adds custom auth server support, and provides more customization
@@ -94,22 +94,9 @@ There are development builds available through:
 
 These builds contain debug information in the binaries, so their file sizes are relatively larger. Prebuilt Development builds are provided for **Linux, Windows, and macOS**.
 
-## Community & Support
-
-If you found a bug or want to suggest a feature, please open an issue in [GitHub Issues](https://github.com/FreesmTeam/FreesmLauncher/issues). Pull requests and contributions (code, docs, translations) are welcome!
-
 ### Discord
 
 [![Discord server](https://discordapp.com/api/guilds/1332079164341354506/widget.png?style=banner3)](https://freesmlauncher.org/discord)
-
-### Telegram
-
-[![Telegram News Group](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ffreesmlauncher.org%2Fapi%2Fbadges%2Ftelegram&query=%24.news&suffix=%20members&style=for-the-badge&label=News%20group&color=%23f5c2e7)](https://freesmlauncher.org/telegram)
-[![Telegram Support Chat](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ffreesmlauncher.org%2Fapi%2Fbadges%2Ftelegram&query=%24.support&suffix=%20members&style=for-the-badge&label=Support&color=%23f5c2e7)](https://t.me/freesmsupport)
-
-### Subreddit
-
-[![r/FreesmLauncher](https://img.shields.io/reddit/subreddit-subscribers/freesmlauncher?style=for-the-badge&logo=reddit)](https://freesmlauncher.org/reddit)
 
 ## Translations
 
